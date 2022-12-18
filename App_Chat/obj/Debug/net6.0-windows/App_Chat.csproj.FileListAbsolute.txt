@@ -1,0 +1,95 @@
+E:\SGU\HK1_2022-2023\Lập trình mạng\Project_App_Chat\App_Chat\bin\Debug\net6.0-windows\App_Chat.exe
+E:\SGU\HK1_2022-2023\Lập trình mạng\Project_App_Chat\App_Chat\bin\Debug\net6.0-windows\App_Chat.deps.json
+E:\SGU\HK1_2022-2023\Lập trình mạng\Project_App_Chat\App_Chat\bin\Debug\net6.0-windows\App_Chat.runtimeconfig.json
+E:\SGU\HK1_2022-2023\Lập trình mạng\Project_App_Chat\App_Chat\bin\Debug\net6.0-windows\App_Chat.dll
+E:\SGU\HK1_2022-2023\Lập trình mạng\Project_App_Chat\App_Chat\bin\Debug\net6.0-windows\App_Chat.pdb
+E:\SGU\HK1_2022-2023\Lập trình mạng\Project_App_Chat\App_Chat\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+E:\SGU\HK1_2022-2023\Lập trình mạng\Project_App_Chat\App_Chat\bin\Debug\net6.0-windows\Newtonsoft.Json.Bson.dll
+E:\SGU\HK1_2022-2023\Lập trình mạng\Project_App_Chat\App_Chat\bin\Debug\net6.0-windows\ClassLibrary.dll
+E:\SGU\HK1_2022-2023\Lập trình mạng\Project_App_Chat\App_Chat\bin\Debug\net6.0-windows\ClassLibrary.pdb
+E:\SGU\HK1_2022-2023\Lập trình mạng\Project_App_Chat\App_Chat\obj\Debug\net6.0-windows\App_Chat.csproj.AssemblyReference.cache
+E:\SGU\HK1_2022-2023\Lập trình mạng\Project_App_Chat\App_Chat\obj\Debug\net6.0-windows\App_Chat.Form1.resources
+E:\SGU\HK1_2022-2023\Lập trình mạng\Project_App_Chat\App_Chat\obj\Debug\net6.0-windows\Project_App_Chat.MainChat.resources
+E:\SGU\HK1_2022-2023\Lập trình mạng\Project_App_Chat\App_Chat\obj\Debug\net6.0-windows\Project_App_Chat.MainForm.resources
+E:\SGU\HK1_2022-2023\Lập trình mạng\Project_App_Chat\App_Chat\obj\Debug\net6.0-windows\Project_App_Chat.PopupLogin.resources
+E:\SGU\HK1_2022-2023\Lập trình mạng\Project_App_Chat\App_Chat\obj\Debug\net6.0-windows\Project_App_Chat.PopupRegister.resources
+E:\SGU\HK1_2022-2023\Lập trình mạng\Project_App_Chat\App_Chat\obj\Debug\net6.0-windows\App_Chat.Properties.Resources.resources
+E:\SGU\HK1_2022-2023\Lập trình mạng\Project_App_Chat\App_Chat\obj\Debug\net6.0-windows\App_Chat.csproj.GenerateResource.cache
+E:\SGU\HK1_2022-2023\Lập trình mạng\Project_App_Chat\App_Chat\obj\Debug\net6.0-windows\App_Chat.GeneratedMSBuildEditorConfig.editorconfig
+E:\SGU\HK1_2022-2023\Lập trình mạng\Project_App_Chat\App_Chat\obj\Debug\net6.0-windows\App_Chat.AssemblyInfoInputs.cache
+E:\SGU\HK1_2022-2023\Lập trình mạng\Project_App_Chat\App_Chat\obj\Debug\net6.0-windows\App_Chat.AssemblyInfo.cs
+E:\SGU\HK1_2022-2023\Lập trình mạng\Project_App_Chat\App_Chat\obj\Debug\net6.0-windows\App_Chat.csproj.CoreCompileInputs.cache
+E:\SGU\HK1_2022-2023\Lập trình mạng\Project_App_Chat\App_Chat\obj\Debug\net6.0-windows\App_Chat.csproj.CopyComplete
+E:\SGU\HK1_2022-2023\Lập trình mạng\Project_App_Chat\App_Chat\obj\Debug\net6.0-windows\App_Chat.dll
+E:\SGU\HK1_2022-2023\Lập trình mạng\Project_App_Chat\App_Chat\obj\Debug\net6.0-windows\refint\App_Chat.dll
+E:\SGU\HK1_2022-2023\Lập trình mạng\Project_App_Chat\App_Chat\obj\Debug\net6.0-windows\App_Chat.pdb
+E:\SGU\HK1_2022-2023\Lập trình mạng\Project_App_Chat\App_Chat\obj\Debug\net6.0-windows\App_Chat.genruntimeconfig.cache
+E:\SGU\HK1_2022-2023\Lập trình mạng\Project_App_Chat\App_Chat\obj\Debug\net6.0-windows\ref\App_Chat.dll
+D:\SGU\HK7\LapTrinhMang\UIHuyHieu\Project_App_Chat\App_Chat\bin\Debug\net6.0-windows\App_Chat.exe
+D:\SGU\HK7\LapTrinhMang\UIHuyHieu\Project_App_Chat\App_Chat\bin\Debug\net6.0-windows\App_Chat.deps.json
+D:\SGU\HK7\LapTrinhMang\UIHuyHieu\Project_App_Chat\App_Chat\bin\Debug\net6.0-windows\App_Chat.runtimeconfig.json
+D:\SGU\HK7\LapTrinhMang\UIHuyHieu\Project_App_Chat\App_Chat\bin\Debug\net6.0-windows\App_Chat.dll
+D:\SGU\HK7\LapTrinhMang\UIHuyHieu\Project_App_Chat\App_Chat\bin\Debug\net6.0-windows\App_Chat.pdb
+D:\SGU\HK7\LapTrinhMang\UIHuyHieu\Project_App_Chat\App_Chat\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+D:\SGU\HK7\LapTrinhMang\UIHuyHieu\Project_App_Chat\App_Chat\bin\Debug\net6.0-windows\Newtonsoft.Json.Bson.dll
+D:\SGU\HK7\LapTrinhMang\UIHuyHieu\Project_App_Chat\App_Chat\bin\Debug\net6.0-windows\ClassLibrary.dll
+D:\SGU\HK7\LapTrinhMang\UIHuyHieu\Project_App_Chat\App_Chat\bin\Debug\net6.0-windows\ClassLibrary.pdb
+D:\SGU\HK7\LapTrinhMang\UIHuyHieu\Project_App_Chat\App_Chat\obj\Debug\net6.0-windows\App_Chat.csproj.AssemblyReference.cache
+D:\SGU\HK7\LapTrinhMang\UIHuyHieu\Project_App_Chat\App_Chat\obj\Debug\net6.0-windows\App_Chat.Form1.resources
+D:\SGU\HK7\LapTrinhMang\UIHuyHieu\Project_App_Chat\App_Chat\obj\Debug\net6.0-windows\Project_App_Chat.MainChat.resources
+D:\SGU\HK7\LapTrinhMang\UIHuyHieu\Project_App_Chat\App_Chat\obj\Debug\net6.0-windows\Project_App_Chat.MainForm.resources
+D:\SGU\HK7\LapTrinhMang\UIHuyHieu\Project_App_Chat\App_Chat\obj\Debug\net6.0-windows\Project_App_Chat.PopupLogin.resources
+D:\SGU\HK7\LapTrinhMang\UIHuyHieu\Project_App_Chat\App_Chat\obj\Debug\net6.0-windows\Project_App_Chat.PopupRegister.resources
+D:\SGU\HK7\LapTrinhMang\UIHuyHieu\Project_App_Chat\App_Chat\obj\Debug\net6.0-windows\App_Chat.Properties.Resources.resources
+D:\SGU\HK7\LapTrinhMang\UIHuyHieu\Project_App_Chat\App_Chat\obj\Debug\net6.0-windows\App_Chat.csproj.GenerateResource.cache
+D:\SGU\HK7\LapTrinhMang\UIHuyHieu\Project_App_Chat\App_Chat\obj\Debug\net6.0-windows\App_Chat.GeneratedMSBuildEditorConfig.editorconfig
+D:\SGU\HK7\LapTrinhMang\UIHuyHieu\Project_App_Chat\App_Chat\obj\Debug\net6.0-windows\App_Chat.AssemblyInfoInputs.cache
+D:\SGU\HK7\LapTrinhMang\UIHuyHieu\Project_App_Chat\App_Chat\obj\Debug\net6.0-windows\App_Chat.AssemblyInfo.cs
+D:\SGU\HK7\LapTrinhMang\UIHuyHieu\Project_App_Chat\App_Chat\obj\Debug\net6.0-windows\App_Chat.csproj.CoreCompileInputs.cache
+D:\SGU\HK7\LapTrinhMang\UIHuyHieu\Project_App_Chat\App_Chat\obj\Debug\net6.0-windows\App_Chat.csproj.CopyComplete
+D:\SGU\HK7\LapTrinhMang\UIHuyHieu\Project_App_Chat\App_Chat\obj\Debug\net6.0-windows\App_Chat.dll
+D:\SGU\HK7\LapTrinhMang\UIHuyHieu\Project_App_Chat\App_Chat\obj\Debug\net6.0-windows\refint\App_Chat.dll
+D:\SGU\HK7\LapTrinhMang\UIHuyHieu\Project_App_Chat\App_Chat\obj\Debug\net6.0-windows\App_Chat.pdb
+D:\SGU\HK7\LapTrinhMang\UIHuyHieu\Project_App_Chat\App_Chat\obj\Debug\net6.0-windows\App_Chat.genruntimeconfig.cache
+D:\SGU\HK7\LapTrinhMang\UIHuyHieu\Project_App_Chat\App_Chat\obj\Debug\net6.0-windows\ref\App_Chat.dll
+D:\SGU\HK7\LapTrinhMang\UIHuyHieu\Project_App_Chat\App_Chat\bin\Debug\net6.0-windows\DTO.dll
+D:\SGU\HK7\LapTrinhMang\UIHuyHieu\Project_App_Chat\App_Chat\bin\Debug\net6.0-windows\DTO.pdb
+D:\SGU\HK7\LapTrinhMang\UIHuyHieu\Project_App_Chat\App_Chat\bin\Debug\net6.0-windows\Azure.Core.dll
+D:\SGU\HK7\LapTrinhMang\UIHuyHieu\Project_App_Chat\App_Chat\bin\Debug\net6.0-windows\Azure.Identity.dll
+D:\SGU\HK7\LapTrinhMang\UIHuyHieu\Project_App_Chat\App_Chat\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\SGU\HK7\LapTrinhMang\UIHuyHieu\Project_App_Chat\App_Chat\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+D:\SGU\HK7\LapTrinhMang\UIHuyHieu\Project_App_Chat\App_Chat\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\SGU\HK7\LapTrinhMang\UIHuyHieu\Project_App_Chat\App_Chat\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\SGU\HK7\LapTrinhMang\UIHuyHieu\Project_App_Chat\App_Chat\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\SGU\HK7\LapTrinhMang\UIHuyHieu\Project_App_Chat\App_Chat\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\SGU\HK7\LapTrinhMang\UIHuyHieu\Project_App_Chat\App_Chat\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\SGU\HK7\LapTrinhMang\UIHuyHieu\Project_App_Chat\App_Chat\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\SGU\HK7\LapTrinhMang\UIHuyHieu\Project_App_Chat\App_Chat\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\SGU\HK7\LapTrinhMang\UIHuyHieu\Project_App_Chat\App_Chat\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\SGU\HK7\LapTrinhMang\UIHuyHieu\Project_App_Chat\App_Chat\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\SGU\HK7\LapTrinhMang\UIHuyHieu\Project_App_Chat\App_Chat\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+D:\SGU\HK7\LapTrinhMang\UIHuyHieu\Project_App_Chat\App_Chat\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\SGU\HK7\LapTrinhMang\UIHuyHieu\Project_App_Chat\App_Chat\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+D:\SGU\HK7\LapTrinhMang\UIHuyHieu\Project_App_Chat\App_Chat\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+D:\SGU\HK7\LapTrinhMang\UIHuyHieu\Project_App_Chat\App_Chat\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+D:\SGU\HK7\LapTrinhMang\UIHuyHieu\Project_App_Chat\App_Chat\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\SGU\HK7\LapTrinhMang\UIHuyHieu\Project_App_Chat\App_Chat\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\SGU\HK7\LapTrinhMang\UIHuyHieu\Project_App_Chat\App_Chat\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\SGU\HK7\LapTrinhMang\UIHuyHieu\Project_App_Chat\App_Chat\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\SGU\HK7\LapTrinhMang\UIHuyHieu\Project_App_Chat\App_Chat\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\SGU\HK7\LapTrinhMang\UIHuyHieu\Project_App_Chat\App_Chat\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\SGU\HK7\LapTrinhMang\UIHuyHieu\Project_App_Chat\App_Chat\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\SGU\HK7\LapTrinhMang\UIHuyHieu\Project_App_Chat\App_Chat\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+D:\SGU\HK7\LapTrinhMang\UIHuyHieu\Project_App_Chat\App_Chat\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\SGU\HK7\LapTrinhMang\UIHuyHieu\Project_App_Chat\App_Chat\bin\Debug\net6.0-windows\System.Memory.Data.dll
+D:\SGU\HK7\LapTrinhMang\UIHuyHieu\Project_App_Chat\App_Chat\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+D:\SGU\HK7\LapTrinhMang\UIHuyHieu\Project_App_Chat\App_Chat\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\SGU\HK7\LapTrinhMang\UIHuyHieu\Project_App_Chat\App_Chat\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\SGU\HK7\LapTrinhMang\UIHuyHieu\Project_App_Chat\App_Chat\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SGU\HK7\LapTrinhMang\UIHuyHieu\Project_App_Chat\App_Chat\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SGU\HK7\LapTrinhMang\UIHuyHieu\Project_App_Chat\App_Chat\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SGU\HK7\LapTrinhMang\UIHuyHieu\Project_App_Chat\App_Chat\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SGU\HK7\LapTrinhMang\UIHuyHieu\Project_App_Chat\App_Chat\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\SGU\HK7\LapTrinhMang\UIHuyHieu\Project_App_Chat\App_Chat\bin\Debug\net6.0-windows\Models.dll
+D:\SGU\HK7\LapTrinhMang\UIHuyHieu\Project_App_Chat\App_Chat\bin\Debug\net6.0-windows\Models.pdb
+D:\SGU\HK7\LapTrinhMang\UIHuyHieu\Project_App_Chat\App_Chat\obj\Debug\net6.0-windows\App_Chat.PopupAddGroup.resources

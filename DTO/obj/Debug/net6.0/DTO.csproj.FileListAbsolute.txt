@@ -1,0 +1,12 @@
+D:\SGU\HK7\LapTrinhMang\UIHuyHieu\Project_App_Chat\DTO\bin\Debug\net6.0\DTO.deps.json
+D:\SGU\HK7\LapTrinhMang\UIHuyHieu\Project_App_Chat\DTO\bin\Debug\net6.0\DTO.dll
+D:\SGU\HK7\LapTrinhMang\UIHuyHieu\Project_App_Chat\DTO\bin\Debug\net6.0\DTO.pdb
+D:\SGU\HK7\LapTrinhMang\UIHuyHieu\Project_App_Chat\DTO\obj\Debug\net6.0\DTO.csproj.AssemblyReference.cache
+D:\SGU\HK7\LapTrinhMang\UIHuyHieu\Project_App_Chat\DTO\obj\Debug\net6.0\DTO.GeneratedMSBuildEditorConfig.editorconfig
+D:\SGU\HK7\LapTrinhMang\UIHuyHieu\Project_App_Chat\DTO\obj\Debug\net6.0\DTO.AssemblyInfoInputs.cache
+D:\SGU\HK7\LapTrinhMang\UIHuyHieu\Project_App_Chat\DTO\obj\Debug\net6.0\DTO.AssemblyInfo.cs
+D:\SGU\HK7\LapTrinhMang\UIHuyHieu\Project_App_Chat\DTO\obj\Debug\net6.0\DTO.csproj.CoreCompileInputs.cache
+D:\SGU\HK7\LapTrinhMang\UIHuyHieu\Project_App_Chat\DTO\obj\Debug\net6.0\DTO.dll
+D:\SGU\HK7\LapTrinhMang\UIHuyHieu\Project_App_Chat\DTO\obj\Debug\net6.0\refint\DTO.dll
+D:\SGU\HK7\LapTrinhMang\UIHuyHieu\Project_App_Chat\DTO\obj\Debug\net6.0\DTO.pdb
+D:\SGU\HK7\LapTrinhMang\UIHuyHieu\Project_App_Chat\DTO\obj\Debug\net6.0\ref\DTO.dll

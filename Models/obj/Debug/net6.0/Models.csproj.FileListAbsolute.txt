@@ -1,0 +1,15 @@
+D:\SGU\HK7\LapTrinhMang\UIHuyHieu\Project_App_Chat\Models\bin\Debug\net6.0\Models.deps.json
+D:\SGU\HK7\LapTrinhMang\UIHuyHieu\Project_App_Chat\Models\bin\Debug\net6.0\Models.dll
+D:\SGU\HK7\LapTrinhMang\UIHuyHieu\Project_App_Chat\Models\bin\Debug\net6.0\Models.pdb
+D:\SGU\HK7\LapTrinhMang\UIHuyHieu\Project_App_Chat\Models\bin\Debug\net6.0\DTO.dll
+D:\SGU\HK7\LapTrinhMang\UIHuyHieu\Project_App_Chat\Models\bin\Debug\net6.0\DTO.pdb
+D:\SGU\HK7\LapTrinhMang\UIHuyHieu\Project_App_Chat\Models\obj\Debug\net6.0\Models.csproj.AssemblyReference.cache
+D:\SGU\HK7\LapTrinhMang\UIHuyHieu\Project_App_Chat\Models\obj\Debug\net6.0\Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\SGU\HK7\LapTrinhMang\UIHuyHieu\Project_App_Chat\Models\obj\Debug\net6.0\Models.AssemblyInfoInputs.cache
+D:\SGU\HK7\LapTrinhMang\UIHuyHieu\Project_App_Chat\Models\obj\Debug\net6.0\Models.AssemblyInfo.cs
+D:\SGU\HK7\LapTrinhMang\UIHuyHieu\Project_App_Chat\Models\obj\Debug\net6.0\Models.csproj.CoreCompileInputs.cache
+D:\SGU\HK7\LapTrinhMang\UIHuyHieu\Project_App_Chat\Models\obj\Debug\net6.0\Models.csproj.CopyComplete
+D:\SGU\HK7\LapTrinhMang\UIHuyHieu\Project_App_Chat\Models\obj\Debug\net6.0\Models.dll
+D:\SGU\HK7\LapTrinhMang\UIHuyHieu\Project_App_Chat\Models\obj\Debug\net6.0\refint\Models.dll
+D:\SGU\HK7\LapTrinhMang\UIHuyHieu\Project_App_Chat\Models\obj\Debug\net6.0\Models.pdb
+D:\SGU\HK7\LapTrinhMang\UIHuyHieu\Project_App_Chat\Models\obj\Debug\net6.0\ref\Models.dll
